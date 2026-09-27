@@ -53,6 +53,8 @@ A curated list for anyone searching claude code api: the Claude Console and Deve
 - [Claude on Google Cloud Vertex AI](https://claude.com/partners/google-cloud-vertex-ai) - through Google Cloud; 66-lesson course.
 - [Claude on Microsoft Foundry](https://claude.com/partners/microsoft-foundry) - through Microsoft.
 
+- [APIClaw](https://apiclaw.biz) - OpenAI-compatible gateway for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM with flat-rate plans and a free trial.
+- 
 ## Related
 
 - [Regional compliance](https://claude.com/regional-compliance) - where the platform is available.
