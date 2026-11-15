@@ -45,6 +45,7 @@ A curated list for anyone searching claude code api: the Claude Console and Deve
 - [Connectors](https://claude.com/connectors) - connectors directory.
 - [Marketplace](https://claude.com/platform/marketplace) - the platform marketplace.
 - [Ecosystem](https://claude.com/ecosystem) - partner and ecosystem overview.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - remote MCP server for searching under-400-capacity live music venues, booking contacts, and tour routes.
 
 ## Alternatives
 
